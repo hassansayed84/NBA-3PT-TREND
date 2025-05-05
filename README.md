@@ -6,6 +6,7 @@ The data is pulled directly from the NBA's official stats API using the nba_api 
 Objective
 
 To visualize how the NBA’s shot selection has evolved over time, with a focus on the shift toward the three-point shot and the decline of mid-range/two-point attempts.
+
 Technologies Used
 -Python
 
